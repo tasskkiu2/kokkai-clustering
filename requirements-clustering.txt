@@ -1,0 +1,8 @@
+jupyterlab>=4.2,<5
+matplotlib>=3.9,<4
+numpy>=2.0,<3
+pandas>=2.2,<3
+scikit-learn>=1.5,<2
+seaborn>=0.13,<1
+SudachiPy>=0.6.8,<1
+SudachiDict-core>=20240716
